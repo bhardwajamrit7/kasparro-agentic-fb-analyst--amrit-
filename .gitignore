@@ -1,0 +1,10 @@
+# Ignore full dataset
+data/full_fb_ads.csv
+
+# Virtual environment
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
